@@ -78,7 +78,7 @@ After cleaning and analyzing the data, we were able to find out lots of informat
 
 #### 1. Who gets hired? What kind of talent do employers want when they are hiring a data scientist?
 
-![alt text](img1.png "Title")
+<img src="https://bit.ly/2JYxVK5" alt="Qualifications Listed" width="100"/> 
 
 
 #### 2. Which location has the most opportunities? 
