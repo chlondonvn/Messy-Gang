@@ -83,7 +83,7 @@ After cleaning and analyzing the data, we were able to find out lots of informat
 
 #### 2. Which location has the most opportunities? 
 
-![alt text](img2.png "Title") ![alt text](img3.png "Title") 
+<img src="https://bit.ly/35roprn" />  ![alt text](img3.png "Title") 
 
 #### 3. What skills, tools, degrees or majors do employers want the most for data scientists?  
 
