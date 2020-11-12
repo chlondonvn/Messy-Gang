@@ -78,33 +78,33 @@ After cleaning and analyzing the data, we were able to find out lots of informat
 
 #### 1. Who gets hired? What kind of talent do employers want when they are hiring a data scientist?
 
-![alt text](Qualifications4.png "Title")
+![alt text](img1.png "Title")
 
 
 #### 2. Which location has the most opportunities? 
 
-![alt text](map.png "Title") ![alt text](states.png "Title") 
+![alt text](img2.png "Title") ![alt text](img3.png "Title") 
 
 #### 3. What skills, tools, degrees or majors do employers want the most for data scientists?  
 
- ![alt text](skills6.png "Title") ![alt text](qualification_count.png "Title") ![alt text](skills1.png "Title") ![alt text](skills2.png "Title") 
+ ![alt text](img4.png "Title") ![alt text](img5.png "Title") ![alt text](img6.png "Title") ![alt text](img7.png "Title") 
 
 #### 4. Employ string functions + regexp
 
-![alt text](regexp1.png "Title") 
+![alt text](img8.png "Title") 
 
 #### 5. Summarise results by job profile, company, location city, area of the country   
 
-![alt text](Positions_Python1.png "Title")  ![alt text](seniority.png "Title")   ![alt text](Positions_Grouped2.png "Title") 
+![alt text](img9.png "Title")  ![alt text](img10.png "Title")   ![alt text](img11.png "Title") 
 
 
 #### 6. Create new columns : employ Boolean T/F  logic 
 
-![alt text](skillstotable1.png "Title")
+![alt text](img12.png "Title")
 
 #### 7. Additional Insights
 
-![alt text](Top10CompaniesHiring.png "Title")  ![alt text](keywords.png "Title") ![alt text](positionsamazon1.png "Title") ![alt text](add1.png "Title")
+![alt text](img13.png "Title")  ![alt text](img14.png "Title") ![alt text](img15.png "Title") ![alt text](img16.png "Title")
 
 ### Challenges
 
@@ -132,3 +132,7 @@ We encountered a number of challenges, these included:
         - Messy_Graphics directory
         - README
 
+
+```
+
+```
