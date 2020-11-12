@@ -83,28 +83,29 @@ After cleaning and analyzing the data, we were able to find out lots of informat
 
 #### 2. Which location has the most opportunities? 
 
-<img src="https://bit.ly/35roprn" />  ![alt text](img3.png "Title") 
+<img src="https://bit.ly/2ImzsJL" />  <img src="https://bit.ly/3kmXotb" />
 
 #### 3. What skills, tools, degrees or majors do employers want the most for data scientists?  
 
- ![alt text](img4.png "Title") ![alt text](img5.png "Title") ![alt text](img6.png "Title") ![alt text](img7.png "Title") 
+ <img src="https://bit.ly/3nlK8H0" />  <img src="https://bit.ly/32G5TJT" /> <img src="https://bit.ly/3eTX5VD" />  <img src="https://bit.ly/2IteIj9" />
 
 #### 4. Employ string functions + regexp
 
-![alt text](img8.png "Title") 
+<img src="https://bit.ly/3pq439F" />
 
 #### 5. Summarise results by job profile, company, location city, area of the country   
 
-![alt text](img9.png "Title")  ![alt text](img10.png "Title")   ![alt text](img11.png "Title") 
+
+<img src="https://bit.ly/32FMOYp" />   <img src="https://bit.ly/3pxSFsC" />   <img src="https://bit.ly/3eTOPFl" /> 
 
 
 #### 6. Create new columns : employ Boolean T/F  logic 
 
-![alt text](img12.png "Title")
+<img src="https://bit.ly/35qmtzc" />
 
 #### 7. Additional Insights
 
-![alt text](img13.png "Title")  ![alt text](img14.png "Title") ![alt text](img15.png "Title") ![alt text](img16.png "Title")
+<img src="https://bit.ly/3krMlPk" />  <img src="https://bit.ly/2K2fYKN " /> <img src="https://bit.ly/3nh9mGx" />  <img src="https://bit.ly/38AbsNE" /> 
 
 ### Challenges
 
